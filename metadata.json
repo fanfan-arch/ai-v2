@@ -1,0 +1,5 @@
+{
+  "name": "智专笔 - AI 专利撰写助手",
+  "description": "基于 Gemini 3 Pro 的智能专利撰写系统，支持多文档分析、符合中国专利局规范的权利要求书与说明书生成，并能智能创作高质量技术附图。",
+  "requestFramePermissions": []
+}
